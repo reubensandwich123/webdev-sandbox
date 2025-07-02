@@ -20,7 +20,7 @@ core1.addEventListener("click", function(){
         answer.textContent = "Discipline";
         active = "core1";
         let img1 = document.createElement("img");
-        img1.src = "../../../webdev-sandbox/media/IMG_0510.jpg";  // updated path
+        img1.src = "../media/IMG_0510.jpg";  // updated path
         img1.style.height = "300px";
         img1.style.width = "250px";
 
@@ -51,7 +51,7 @@ core2.addEventListener("click", function(){
         answer.textContent = "Purpose";
         active = "core2";
         let img2 = document.createElement("img");
-        img2.src = "../../../webdev-sandbox/media/IMG_9041.jpg";  // updated path
+        img2.src = "../media/IMG_9041.jpg";  // updated path
         img2.style.height = "300px";
         img2.style.width = "250px";
 
@@ -81,7 +81,7 @@ core3.addEventListener("click", function(){
         answer.textContent = "Humility";
         active = "core3";
         let img3 = document.createElement("img");
-        img3.src = "../../../webdev-sandbox/media/guanbo.jpg";  // updated path
+        img3.src = "../media/guanbo.jpg";  // updated path
         img3.style.height = "300px";
         img3.style.width = "400px";
         answer.style.border = "3px dotted white";
@@ -110,7 +110,7 @@ core4.addEventListener("click", function(){
         answer.textContent = "Adaptability";
 
         let img4 = document.createElement("img");
-        img4.src = "../../../webdev-sandbox/media/IMG_8968.jpg";  // updated path
+        img4.src = "../media/IMG_8968.jpg";  // updated path
         img4.style.height = "300px";
         img4.style.width = "400px";
 
