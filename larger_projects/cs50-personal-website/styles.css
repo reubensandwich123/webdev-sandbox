@@ -419,7 +419,7 @@ body {
 }
 .experience-intro{
     display: flex;
-    background-image: url(landscape2.jpg);
+    background-image: url(../media/landscape2.jpg);
     border: solid black 20px;
     justify-content: center;
     align-items: center;
