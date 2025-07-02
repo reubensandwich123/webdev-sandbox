@@ -1,7 +1,7 @@
 # Project Name
 Personal portfolio website
 ### What it is
-A website containing information about me. Take note some information is fictitious and the images used may not be relevant. 
+A website containing information about me. Take note some information is fictitious and the images used may not be relevant. Completed as part of CS50's week 8 assignment.
 
 ### Technologies
 HTML, CSS, Javascript
