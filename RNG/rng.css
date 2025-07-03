@@ -1,0 +1,32 @@
+#number
+{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+    color: cyan;
+}
+
+.input
+{
+    text-align: center;
+
+
+}
+#button
+{
+    text-align: center;
+}
+#myButton
+{
+    background-color: blue;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#myButton:hover
+{
+
+    cursor: pointer;
+}
