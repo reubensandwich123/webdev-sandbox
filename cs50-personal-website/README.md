@@ -17,6 +17,8 @@ Using vscode live server extension:
     2. click open with live server
     3. select "larger_projects"
     4. select "cs50-personal-website"
+Using my link:
+    https://webdev-sandbox.onrender.com
 
 ### What I learned
 - Learned how to use Bootstrap components to create a responsive and consistent layout across different devices.
